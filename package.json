@@ -1,11 +1,11 @@
 {
   "name": "word-search",
   "version": "1.0.0",
-  "description": "A demonstration of tdd.",
+  "description": "A program that searches for words.",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "node test.js"
   },
-  "author": "",
+  "author": "Eudai",
   "license": "ISC"
 }

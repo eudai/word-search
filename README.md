@@ -25,4 +25,6 @@ A program that searches for words.
 
 ## References
 
+https://github.com/PillarTechnology/kata-word-search
+
 https://github.com/jasmine/jasmine
